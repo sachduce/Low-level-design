@@ -1,0 +1,5 @@
+1. User should be able to swipe card
+2. User should be able to withdraw funds from account of any bank
+3. User should be able to deposit cash and check
+4. User should be able to transfer funds
+5. User should be able to check for their funds.

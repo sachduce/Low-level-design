@@ -1,0 +1,7 @@
+1. Multiple level of parking lots
+2. Multiple gates in parking lot
+3. Parking Attendant at each gates
+4. Each gate process process parking ticket
+5. Exit gate process payment on hourly basis
+6. Parking facility should have parking for different type of vehicles
+7. Display board at each floor showing the details of vacant floor at each floor 
